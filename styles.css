@@ -3,7 +3,8 @@ body{
   font-weight: 200;
   font-size: 15px;
   text-align: center;
-  background-color: hsl(0, 0%, 98%)
+  background-color: hsl(0, 0%, 98%);
+  color:hsl(0, 0%, 98%);
 }
 h1{
   font-size:2rem;
@@ -12,13 +13,18 @@ h1{
 h2{
   font-size: 1.25rem;
   margin-top:0;
+  color: hsl(234, 12%, 34%);
 }
+p{
+  
                         /* Heading */
 .head{
   font-weight: 200;
+  color:hsl(229, 6%, 66%)
 }
 .bold-head{
   font-weight:600;
+  color: hsl(234, 12%, 34%);
 }
 .description{
   width:35%;
